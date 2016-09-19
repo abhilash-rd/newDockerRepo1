@@ -1,1 +1,1 @@
-echo $http_proxy
+REM echo $http_proxy
